@@ -3,8 +3,6 @@ import './App.css';
 
 function App() {
   // ........
-  // asdasjojdjasldjjaslkdjasdkljaslkdas
-  // sadasdasdasdaseaqsedasda
   return (
     <div className="App">
       <header className="App-header">
