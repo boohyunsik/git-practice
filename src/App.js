@@ -5,8 +5,6 @@ function App() {
   // ........
   // asdasjojdjasldjjaslkdjasdkljaslkdas
   // sadasdasdasdaseaqsedasda
-  // asdasdasdasdasdasd
-  // asdasdfafgafrqweqwe
   return (
     <div className="App">
       <header className="App-header">
